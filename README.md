@@ -1,5 +1,5 @@
 #EmployeeApp
-This project is a Spring Boot application that demonstrates basic CRUD (Create, Read, Update, Delete) operations for managing employee information. It utilizes a RESTful API for communication, Spring Data JPA for database interaction, Lombok for boilerplate code reduction, and an H2 in-memory database for storage. You can access the application at http://localhost:8080/employees.
+This project is a Spring Boot application that demonstrates basic CRUD (Create, Read, Update, Delete) operations for managing employee information. It utilizes a RESTful API for communication, Spring Data JPA for database interaction, Lombok for boilerplate code reduction, and an H2 in-memory database for storage. You can access the application at http://localhost:8080/employee
 
 Technologies Used
 Spring Boot: Simplifies the development of production-ready Spring applications.
@@ -94,5 +94,5 @@ Running the Project
 Clone the repository.
 Run the Spring Boot application.
 Access the H2 console at http://localhost:8080/h2-console with configured credentials.
-Use tools like Postman or curl to interact with the REST API at http://localhost:8080/employees.
+Use tools like Postman or curl to interact with the REST API at http://localhost:8080/employee
 This project serves as a practical example of building a full-featured CRUD application using modern Spring Boot practices.
